@@ -10,5 +10,5 @@ homepage="https://github.com/immortalinfidel/dx-rs"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-ta-common = { version = "0.1.0" }
+ta-common = { git = "https://github.com/LinuxHeki/ta-common" }
 tr-rs = { version = "0.1.0" }
