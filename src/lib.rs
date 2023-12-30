@@ -1,4 +1,3 @@
-#![feature(external_doc)]
 mod adx;
 mod adxr;
 mod dx;
