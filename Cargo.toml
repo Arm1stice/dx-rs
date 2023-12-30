@@ -11,4 +11,4 @@ homepage="https://github.com/immortalinfidel/dx-rs"
 
 [dependencies]
 ta-common = { git = "https://github.com/LinuxHeki/ta-common", rev = "2708466ebe396be60d7f60bc4592cfbe7e6acd6f" }
-tr-rs = { git = "https://github.com/Arm1stice/tr-rs", rev = "32df1c547cd86fd650c6efe744692324351b82cd" }
+tr-rs = { git = "https://github.com/Arm1stice/tr-rs", rev = "141e0d18d23715544811f5b2396505414b49f093" }
